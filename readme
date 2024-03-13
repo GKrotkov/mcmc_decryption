@@ -1,1 +1,3 @@
-tmp
+This project decrypts English text scrambled with a 1:1 letter substitution, using Monte Carlo Markov Chain sampling via the Metropolis Algorithm, outlined by Chen and Rosenthal in Statistics and Computing edition 22.
+
+This implemention includes multiple optimizations to stabilize the computation of high-exponential likelihoods by applying the log scale and using exponent rules to simplify computations.
