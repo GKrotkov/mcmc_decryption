@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mcmc-decryption
+Version: 0.0.1
+Summary: This package implements the Metropolis algorithm for MCMC decryption
+Author-email: Gabriel Krotkov <gkrotkov@andrew.cmu.edu>
+Requires-Dist: numpy

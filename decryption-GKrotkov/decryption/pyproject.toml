@@ -1,0 +1,14 @@
+[project]
+name = "mcmc_decryption"
+version = "0.0.1"
+dependencies = [
+    "numpy"
+]
+description = "This package implements the Metropolis algorithm for MCMC decryption"
+authors = [
+    {name = "Gabriel Krotkov", email = "gkrotkov@andrew.cmu.edu"},
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
